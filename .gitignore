@@ -1,0 +1,21 @@
+# general
+*~
+*.log
+tmp
+dump
+
+# IntelliJ
+**/.idea/
+
+# SBT
+dist
+project/boot
+project/target
+project/plugins/target
+target
+.target
+
+# Play
+**/.g8/
+logs
+RUNNING_PID
